@@ -1,0 +1,19 @@
+{
+    "name": "fuganholi/serasa",
+    "description": "Biblioteca base para comunicaçao com a API de consulta Serasa da Tecnospeed",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diego Almeida",
+            "email": "diego.feres82@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Fuganholi\\Serasa\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
